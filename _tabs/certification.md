@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-solid fa-medal
+icon: fa-solid fa-medal
 order: 4
 ---
 
