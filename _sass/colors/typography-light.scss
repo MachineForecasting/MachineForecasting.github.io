@@ -16,7 +16,7 @@
   --label-color: #585858;
   --blockquote-border-color: #eeeeee;
   --blockquote-text-color: #757575;
-  --link-color: #dc3545;
+  --link-color: #0056b2;
   --link-underline-color: #dee2e6;
   --button-bg: #ffffff;
   --btn-border-color: #e9ecef;
@@ -37,11 +37,11 @@
   );
 
   /* Sidebar */
-  --site-title-color: #bdbdbd;
+  --site-title-color: rgb(113, 113, 113);
   --site-subtitle-color: #dc3545;
-  --sidebar-bg: #060661cc;
-  --sidebar-border-color: #bdbdbd;
-  --sidebar-muted-color: #bdbdbd;
+  --sidebar-bg: #b2dafa;
+  --sidebar-border-color: #efefef;
+  --sidebar-muted-color: #545454;
   --sidebar-active-color: #dc3545;
   --sidebar-hover-bg: rgb(223, 233, 241, 0.64);
   --sidebar-btn-bg: white;
@@ -52,8 +52,8 @@
   --topbar-bg: rgb(255, 255, 255, 0.7);
   --topbar-text-color: rgb(78, 78, 78);
   --search-border-color: rgb(240, 240, 240);
-  --search-icon-color: #dc3545;
-  --input-focus-border-color: #dc3545;
+  --search-icon-color: #c2c6cc;
+  --input-focus-border-color: #b8b8b8;
 
   /* Home page */
   --post-list-text-color: dimgray;
